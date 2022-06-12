@@ -4,6 +4,7 @@ Esse Projeto foi desenvolvido para colocar em prática os conhecimentos em JavaS
 
 O Objetivo foi criar uma Pokedex ("*Uma enciclopédia de Pokemons*") Utilizando a [API](https://pokeapi.co) para obter os dados e exibir na pagina HTML usando o JavaScript
 
+Link:https://allanfernds.github.io/pokedex/
 
 ## Tecnologias utilizadas
 * HTML5
